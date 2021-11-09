@@ -13,7 +13,7 @@ Check the [contributor guide].
 
 
 
-Repository                                                          | Description
+                                                                    | Description
 -----------                                                         | ------------
 [Documentation](https://github.com/revoltchat/documentation)        | API documentation.
 [Landing](https://github.com/revoltchat/revolt.chat)                | Revolt landing page.
