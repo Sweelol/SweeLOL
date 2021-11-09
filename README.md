@@ -1,2 +1,2 @@
 # SweeLOL
-Repository for miscellaneous repository management and discussions
+Repository for miscellaneous repository management and discussions.
