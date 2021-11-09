@@ -1,6 +1,6 @@
 #### Issue Labels
 
-This folder contains a json file that manages the issue labels and milestones for the revoltchat organization.
+This folder contains a json file that manages the issue labels and milestones for the sweelol organization.
 
 It is applied using Jan's GitHub sync tool.
 
