@@ -1,22 +1,15 @@
 [
   {
     "repositories": [
-      "revoltchat/revolt",
-      "revoltchat/delta",
-      "revoltchat/revite",
-      "revoltchat/desktop",
-      "revoltchat/self-hosted",
-      "revoltchat/revolt.js",
-      "revoltchat/vortex",
-      "revoltchat/autumn",
-      "revoltchat/january",
-      "revoltchat/revolt.chat",
+      "sweelol/autumn",
+      "sweelol/january",
+      "sweelol/revolt.chat",
       "revoltchat/api",
       "revoltchat/translations",
-      "revoltchat/themes",
-      "revoltchat/documentation",
-      "revoltchat/cli",
-      "revoltchat/legal"
+      "sweelol/themes",
+      "sweelol/documentation",
+      "sweelolt/cli",
+      "sweelol/legal"
     ],
     "milestones": [
       {
